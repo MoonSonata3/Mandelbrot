@@ -9,6 +9,7 @@ matplotlib<br>
 
 
 ### contents:
+Mandelbrot.ipynb: google colab notebook with code that was used, this is what should be read since it is more structured
 Visualization_of_Mandelbrot_set.py<br>
 this is a script that provides a visualization of the mandel brotset<br>
 Latin_hyper_cube.py<br>
