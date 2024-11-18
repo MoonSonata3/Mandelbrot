@@ -7,8 +7,8 @@ height = 300
 max_iter=300
 
 #arrays of evenly spaced real and imaginary values
-real = np.linspace(-2, 2, width)
-im = np.linspace(-2, 2, height)
+real = np.linspace(-2, 1, width)
+im = np.linspace(-1.5, 1.5, height)
 
 #meshgrid from the real and imaginary arrays
 real_grid, imag_grid = np.meshgrid(real, im)
@@ -31,7 +31,7 @@ for i in range(height):
             result[i,j]=count
 #plot
 plt.figure(figsize=(10, 10))
-plt.imshow(result**0.3, cmap='viridis', extent=(-2, 2, -2, 2), origin='lower')
+plt.imshow(result, cmap='RdGy', extent=(-2, 1, -1.5, 1.5), origin='lower')
 plt.colorbar(label="Escape Iterations")
 plt.xlabel("Re(c)")
 plt.ylabel("Im(c)")
