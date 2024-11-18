@@ -27,10 +27,10 @@ this is a script that finds the area of the mandelbrot set using orthogonal samp
 -OS_stats.py<br>
 for variance, mean area and confidence interval of orthogonal sampling-technique
 
--Pure random sampling :Convergence of Mandelbrot set area estimation with itermax.py
--Pure random sampling.py
--Pure random sampling with error bars plotting.py
--Convergence of Mandelbrot set area estimation in fct of the number of samples.py
+-Pure random sampling :Convergence of Mandelbrot set area estimation with itermax.py<br>
+-Pure random sampling.py<br>
+-Pure random sampling with error bars plotting.py<br>
+-Convergence of Mandelbrot set area estimation in fct of the number of samples.py<br>
 This all refers to the question three for the pure random sampling method.
 
 -Pure random vs antithetic sampling standard deviation comparaison.py<br>
