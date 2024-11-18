@@ -9,13 +9,14 @@ matplotlib<br>
 
 
 ### contents:
-Mandelbrot.ipynb: google colab notebook with code that was used, this is what should be read since it is more structured<br>
+-Mandelbrot.ipynb<br>
+google colab notebook with code that was used, this is what should be read since it is more structured
 Visualization_of_Mandelbrot_set.py<br>
-this is a script that provides a visualization of the mandel brotset<br>
+this is a script that provides a visualization of the mandel brotset
 Latin_hyper_cube.py<br>
 this is a script to use the latin hyper cube method in finding the area of the mandelbrot set, including the variance, mean area, confidence interval at a given number of samples, iterations, and runs.<br>
-Question2.py<br>
-this is a script that investigates the convergence of the  simulated area using the pure random sampling method.<br>
+Question2.py
+this is a script that investigates the convergence of the  simulated area using the pure random sampling method.
 OS.py<br> 
 this is a script that finds the area of the mandelbrot set using orthogonal sampling
 OS_stats.py<br>
