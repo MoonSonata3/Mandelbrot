@@ -24,10 +24,10 @@ Pure random sampling : Convergence of Mandelbrot set area estimation with iterma
 Pure random sampling.py
 Puer random sampling with error bars plotting.py
 Convergence of Mandelbrot set area estimation in fct of the number of samples.py
-This all refers to the question three for the pure random sampling method. 
+This all refers to the question three for the pure random sampling method. <br>
 
 Pure random vs antithetic sampling standard deviation comparaison.py
-( This one was to compare the two methods based on the standard deviation, but it didn't give the expected results).
+( This one was to compare the two methods based on the standard deviation, but it didn't give the expected results).<br>
 
 Pure Random sampling and antithetic : Estimation area.py
-This refers to question 4. 
+This refers to question 4. <br>
